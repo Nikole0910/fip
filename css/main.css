@@ -442,3 +442,9 @@ input, textarea {
    line-height: 18px;
    font-size: 11px;
 }
+
+#info {
+   background-color: #ECECEC;
+   padding-top: 35px;
+   padding-bottom: 30px;
+}

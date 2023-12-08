@@ -479,3 +479,5 @@ input[type="submit"] {
  #indicator:active+label::after {
    content: url(/images/thumbs-up.png);
  }
+
+}

@@ -25,4 +25,3 @@ function nextPhoto() {
     }
 
     document.getElementById("menu").src = "images/cho_sooa_mob_" + idx + ".png"; 
-}

@@ -1,5 +1,5 @@
 # fip
-I coded through index, dining and contact page.
+I coded through index, dining and contact page. In the navigation dropdown, index.html is Home, dining.html is Dining, and contact.html is Reservations.
 # Dining Page
 I wireframed the dining page, protytped it and coded the page based off of it
 To create a moving menu within the same page, I used screenshots of the menu I made in the wireframe and changed the image source every time next and previous were clicked on in JavaScript.

@@ -442,3 +442,40 @@ input, textarea {
    line-height: 18px;
    font-size: 11px;
 }
+
+#info {
+   background-color: #ECECEC;
+   padding-top: 35px;
+   padding-bottom: 30px;
+}
+
+.bigger-font {
+   font-size: 30px;
+   color: #626262;
+}
+
+#big {
+   font-size: 30px;
+   color: #626262;
+}
+
+a:link {
+   color: #9a2018;
+}
+
+input[type="submit"] {
+   border:2px solid #9a2018;
+   padding:5px 20px;
+   font-size:20px;
+   background:linear-gradient(#9a2018,#9a2018) center/100% 0px no-repeat;
+   transition:0.5s all linear;
+ }
+ 
+ input[type="submit"]:hover {
+   background-size:100% 100%;
+   color: white;
+ }
+
+ #indicator:active+label::after {
+   content: url(/images/thumbs-up.png);
+ }
